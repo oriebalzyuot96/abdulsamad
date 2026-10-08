@@ -47,3 +47,4 @@
 .rec p{font-style:italic;color:var(--ink);margin:0 0 8px}
 .rec cite{font-style:normal;font-size:.86rem;color:var(--ink-3)}
 .player{background:linear-gradient(135deg,var(--accent-2),var(--butter),var(--accent))}
+#introVideo::cue{font-size:.8em;background:rgb(0 0 0 / .6)}
